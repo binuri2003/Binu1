@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello Binuri2 !\n");
+    printf("Hello Binuri3 !\n");
     return 0;
 }
